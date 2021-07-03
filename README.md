@@ -1,1 +1,1 @@
-# ScarceCoin - Security, Simplified.
+# ScarceCoin - Scarcity, Simplified.
