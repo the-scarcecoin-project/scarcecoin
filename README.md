@@ -1,0 +1,2 @@
+# scarcecoin
+Scarcity, simplified.
