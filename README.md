@@ -5,7 +5,7 @@
 - Provably **1,000 times scarcer than BTC**
 - **100% Rug pull proof & distributed in a fair way** (IDO was done on July 3rd, 2021 on SushiSwap at the price of $0.001 per ScarceCoin (ticker symbol SCARCE))
 - **Token distribution:** 
-  - **Uniswap IDO:** 20,000 SCARCE
+  - **SushiSwap IDO:** 20,000 SCARCE
   - **Founding Team:** 1,000 SCARCE
 - Started with an aspiration to be a unique **combination of a collectible and a credible store of value**, with the aim of getting universally accepted as a form of collateral in DeFi (as it is uncorrelated to the price of ETH, stablecoins and other DeFi tokens)
 - **Sound monetary policy** (hard cap on supply with no dilution, ever)
